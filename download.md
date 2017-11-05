@@ -1,5 +1,5 @@
 
-##4.3.1
+## 4.3.1
 破解说明：
 * 同步破解最新版
 * 去掉启动页和其他多余的广告
@@ -8,9 +8,7 @@
 * 加入DNS优化，解决部分地区无法连上的问题
 
 
+* [下载1] (http://t.cn/Rlc4KDY)
+* [下载2] (http://t.cn/RltFYdP)
+* [下载3] (http://t.cn/RlcGT3Q)
 
-[下载1] (http://t.cn/Rlc4KDY)
-[下载2](http://t.cn/RltFYdP)
-[下载3] (http://t.cn/RlcGT3Q)
-
-[@GGock](http://weibo.com/ggock "开发者个人账号")
