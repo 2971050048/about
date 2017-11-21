@@ -8,8 +8,7 @@
 * 加入DNS优化，解决部分地区无法连上的问题
 
 
-* [下载1] (http://t.cn/Rj4cexu)
-* [下载2] (http://t.cn/Rj5CFuE
+* [下载1] (http://t.cn/Rjgp1dm)
+* [下载2] (http://t.cn/RjgEbeY）
 * [下载3] (http://t.cn/Rj5Co7l)
-
 
