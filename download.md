@@ -6,6 +6,6 @@
 * 专业版可每次刷新流量，达到永久破解的目的
 * 加入DNS优化，解决部分地区无法连上的问题
 
-* 1下载http://t.cn/RYriJaq
-* 2下载http://t.cn/RYdGgAw
-* 3下载http://t.cn/RYdqR1T
+* 1下载http://t.cn/RYgByAK
+* 2下载http://t.cn/RYg1dvW
+* 3下载http://t.cn/RYehMkp
