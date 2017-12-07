@@ -3,9 +3,9 @@
 请收藏此页面，方便以后更新
 
 最新版更新
-* [下载1] (http://t.cn/Rjgp1dm)
-* [下载2] (http://t.cn/RjgEbeY）
-* [下载3] (http://t.cn/Rj5Co7l)
+* 1下载http://t.cn/RYew0D3
+* 2下载http://t.cn/RYeUejo
+* 3下载http://t.cn/RYebaBw
 
 
 ### 关于意见反馈的解答
