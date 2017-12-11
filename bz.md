@@ -1,11 +1,11 @@
 # 蓝灯报障说明
 
-请收藏此页面，方便以后更新
-
 若闪退请更新，还是闪退请使用意见反馈
-* 1下载http://t.cn/RYew0D3
-* 2下载http://t.cn/RYeUejo
-* 3下载http://t.cn/RYebaBw
+4.4.10版本
+* 1下载http://t.cn/RTqTfuB
+* 2下载http://t.cn/RTqQeSv
+* 3下载http://t.cn/RTqnHNu
+
 
 
 ### 关于意见反馈的解答
