@@ -1,11 +1,12 @@
 
-## 4.4.8蓝灯破解专业版
+## 4.4.10蓝灯破解专业版
 破解说明：
 * 同步破解最新版
+* 修复闪退问题，修复自动关闭问题
 * 删掉乱七八糟的东西，优化占用内存
 * 专业版可每次刷新流量，达到永久破解的目的
 * 加入DNS优化，解决部分地区无法连上的问题
 
-* 1下载http://t.cn/RYew0D3
-* 2下载http://t.cn/RYeUejo
-* 3下载http://t.cn/RYebaBw
+* 1下载http://t.cn/RTqTfuB
+* 2下载http://t.cn/RTqQeSv
+* 3下载http://t.cn/RTqnHNu
