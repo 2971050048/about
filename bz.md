@@ -1,10 +1,9 @@
 # 蓝灯报障说明
 
-若闪退请更新，还是闪退请使用意见反馈
-4.4.10版本
-* 1下载http://t.cn/RTqTfuB
-* 2下载http://t.cn/RTqQeSv
-* 3下载http://t.cn/RTqnHNu
+若闪退请暂时使用以下旧版本，待作者修复再更新
+历史版本4.4.7版本
+http://t.cn/RYIXXi5
+
 
 
 
