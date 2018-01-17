@@ -1,5 +1,5 @@
 
-## 4.5.5蓝灯破解专业版
+## 4.5.8蓝灯破解专业版
 破解说明：
 * 同步破解最新版
 * 修复谷歌账号和谷歌套件不能更新的问题
@@ -8,6 +8,6 @@
 * 专业版可每次刷新流量，达到永久破解的目的
 * 加入DNS优化，解决部分地区无法连上的问题
 
-* 1下载 http://t.cn/RHQcw5t
-* 2下载 http://t.cn/RHQVVU5
-* 3下载 http://t.cn/RHQIifv
+* 1下载http://t.cn/RQqxv3X
+* 2下载http://t.cn/RQqxBbP
+* 3下载http://t.cn/RHQIifv
