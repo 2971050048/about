@@ -8,6 +8,6 @@
 * 专业版可每次刷新流量，达到永久破解的目的
 * 加入DNS优化，解决部分地区无法连上的问题
 
-* 1下载http://t.cn/RmCUzTU
-* 2下载http://t.cn/RmCUSPb
-* 3下载http://t.cn/RmCUmJB
+* 1下载http://t.cn/RuGo6LC
+* 2下载https://s.yam.com/Gc6sB
+* 3下载http://t.cn/RuGxrI7
