@@ -12,8 +12,10 @@
 * 2下载http://t.cn/EPBa8G6
 * 3下载http://t.cn/EPBiVFP
 
-
-旧版4.6.2
-* 1下载http://t.cn/RuOw98b
-
+=============
+若闪退请暂时使用以下旧版本，待作者修复再更新
+4.6.2
+* 下载http://t.cn/RuOw98b
+4.4.7版本
+* 下载http://t.cn/RYIXXi5
 
