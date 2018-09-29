@@ -9,7 +9,7 @@
 * 加入DNS优化，解决部分地区无法连上的问题
 
 * 1下载http://t.cn/EPBMV59
-* 2下载http://t.cn/EPBiVFP
+* 2下载http://t.cn/EPBa8G6
 * 3下载http://t.cn/EPBiVFP
 
 
