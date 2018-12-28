@@ -15,6 +15,7 @@
 若闪退请暂时使用以下旧版本，待作者修复再更新
 
 * 4.8.0版本：下载http://t.cn/EbcBooW
+* 4.7.9版本：http://t.cn/EPBMV59
 * 4.6.2版本：下载http://t.cn/RuOw98b
 * 4.4.7版本：下载http://t.cn/RYIXXi5
 
