@@ -1,5 +1,5 @@
 
-## 4.7.9蓝灯破解专业版
+## 4.8.1蓝灯破解专业版
 破解说明：
 * 同步破解最新版
 * 修复谷歌账号和谷歌套件不能更新的问题
@@ -8,13 +8,13 @@
 * 专业版可每次刷新流量，达到永久破解的目的
 * 加入DNS优化，解决部分地区无法连上的问题
 
-* 1下载http://t.cn/EPBMV59
-* 2下载http://t.cn/EPBa8G6
-* 3下载http://t.cn/EPBiVFP
-
+* 1下载http://t.cn/Ebc3lrA
+* 2下载http://t.cn/EbcglvA
+* 3下载http://t.cn/EbcDasM
 
 若闪退请暂时使用以下旧版本，待作者修复再更新
 
+* 4.8.0版本：下载http://t.cn/EbcBooW
 * 4.6.2版本：下载http://t.cn/RuOw98b
 * 4.4.7版本：下载http://t.cn/RYIXXi5
 
